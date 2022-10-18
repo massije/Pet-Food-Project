@@ -1,0 +1,88 @@
+/***************************************************************************/
+/********************************* RECOLETA ********************************/
+/***************************************************************************/
+
+@font-face {
+  font-family: "Recoleta";
+  src: url("../fonts/Recoleta/Recoleta-Regular.woff2") format("woff2"),
+    url("../fonts/Recoleta/Recoleta-Regular.woff") format("woff"),
+    url("../fonts/Recoleta/Recoleta-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Recoleta";
+  src: url("../fonts/Recoleta/Recoleta-Medium.woff2") format("woff2"),
+    url("../fonts/Recoleta/Recoleta-Medium.woff") format("woff"),
+    url("../fonts/Recoleta/Recoleta-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Recoleta";
+  src: url("../fonts/Recoleta/Recoleta-SemiBold.woff2") format("woff2"),
+    url("../fonts/Recoleta/Recoleta-SemiBold.woff") format("woff"),
+    url("../fonts/Recoleta/Recoleta-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Recoleta";
+  src: url("../fonts/Recoleta/Recoleta-Bold.woff2") format("woff2"),
+    url("../fonts/Recoleta/Recoleta-Bold.woff") format("woff"),
+    url("../fonts/Recoleta/Recoleta-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/***************************************************************************/
+/********************************* Hellix ********************************/
+/***************************************************************************/
+
+@font-face {
+  font-family: "Hellix";
+  src: url("../fonts/Hellix/Hellix-Regular.woff2") format("woff2"),
+    url("../fonts/Hellix/Hellix-Regular.woff") format("woff"),
+    url("../fonts/Hellix/Hellix-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hellix";
+  src: url("../fonts/Hellix/Hellix-Medium.woff2") format("woff2"),
+    url("../fonts/Hellix/Hellix-Medium.woff") format("woff"),
+    url("../fonts/Hellix/Hellix-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hellix";
+  src: url("../fonts/Hellix/Hellix-SemiBold.woff2") format("woff2"),
+    url("../fonts/Hellix/Hellix-SemiBold.woff") format("woff"),
+    url("../fonts/Hellix/Hellix-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hellix";
+  src: url("../fonts/Hellix/Hellix-Bold.woff2") format("woff2"),
+    url("../fonts/Hellix/Hellix-Bold.woff") format("woff"),
+    url("../fonts/Hellix/Hellix-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hellix";
+  src: url("../fonts/Hellix/Hellix-Black.woff2") format("woff2"),
+    url("../fonts/Hellix/Hellix-Black.woff") format("woff"),
+    url("../fonts/Hellix/Hellix-Black.otf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
