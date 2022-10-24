@@ -9,7 +9,7 @@ We are a company that provides services for the care of pets first and foremost,
 little title: Nutritionally Complete
 Headline: Real Pet food fresh from the fridge.
 
-Brand color: #134e4a , #E6E0AD, #000000 , #495057
+Brand color: #124944 , #fbf3eb, #000000 , #495057
 
 ## Wagg Website Content
 
@@ -25,13 +25,13 @@ Brand color: #134e4a , #E6E0AD, #000000 , #495057
 
 ### Wagg features --> Explore Wagg's World and discover fun
 
-Made in Spain: Personalized care for dogs in a separate atrium. Great for those who can't play with other dogs, senior or those active
+Made in Britain: Personalized care for dogs in a separate atrium. Great for those who can't play with other dogs, senior or those active
 Made By Experts: Half Day includes up to 6 hours of play, socialization & you enrichment. Campers also enjoy meeting new friends.
 Love By Dogs: Over the years, we've learned that dogs thrive on routines and activities that give them an opportunity to exercise.
 
-### Target --> Become The Esp's Largest Producer Of Dry Food
+### Target --> Become The Uk's Largest Producer Of Dry Food
 
-Products in foods formulated for adult, working dogs and puppies, treats and rewards. The Esp's third largest brand by value. Wagg Treats are the 4th largest and fasted growing treat brand in the ESP
+Products in foods formulated for adult, working dogs and puppies, treats and rewards. The UK's third largest brand by value. Wagg Treats are the 4th largest and fasted growing treat brand in the UK
 
 Luxurious Skincare Solution
 Educating And Empowering
@@ -123,7 +123,7 @@ summary: Follow us on Instagram for daily dose of magic
 
 Disponibility: Our experts are available 24/7:
 Phone: 34-945-487-896
-Email: waggfood.esp
+Email: waggfood.uk
 
 Download on the:
 
